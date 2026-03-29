@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic photograph of a tailor proudly presenting an extremely tight, perfectly fitted suit on one specific person, while several other people nearby try to wear identical suits but they do not fit them at all. The setting is a realistic tailoring shop, natural lighting, no text, no symbols, no diagrams, cinematic, ultra detailed, 4k",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly for one person fails to fit others, representing a model that memorizes training data but fails to generalize."
+}
